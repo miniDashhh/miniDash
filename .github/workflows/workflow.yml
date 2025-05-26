@@ -27,6 +27,6 @@ jobs: # 작업정의
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 issue_number: pull_request.number,
-                body: "해당 PR은 가이드라인을 준수하지 않았습니다."
+                body: "해당 PR은 가이드라인을 준수하지 않았습니다.d"
               });
             }
