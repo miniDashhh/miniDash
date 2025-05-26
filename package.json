@@ -1,0 +1,12 @@
+{
+  "name": "minidash",
+  "version": "0.0.1",
+  "description": "Lodash에서 영감을 받은 경량화된 JavaScript 유틸리티 라이브러리입니다. 배열, 객체, 문자열 작업을 더 쉽고 효율적으로 만들기 위해 다양한 유틸리티 함수들을 제공합니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
