@@ -6,7 +6,7 @@ Lodash에서 영감을 받은 경량화된 JavaScript 유틸리티 라이브러�
 
 - 배열 , 객체 , 문자열을 다루기 위한 사용하기 쉬운 API
 - 외부 의존성 없는 경량화
-- 누구에게나 열여있는 오픈소스
+- 누구에게나 열려있는 오픈소스
 
 ## 설치
 
@@ -17,7 +17,9 @@ npm i miniDash
 ## 사용법
 
 ```js
-const miniDash = require('miniDash');
+import {checkedArr} from miniDash;
+
+checkedArr([1,2,3]) // true;
 ```
 
 ## 기여하기
